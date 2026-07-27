@@ -1,0 +1,26 @@
+{
+  "name": "library-management-system",
+  "version": "1.0.0",
+  "description": "A modular Library Management System in JavaScript (ES modules) demonstrating Factory, Strategy, and Observer patterns, dependency injection, and reusable utilities.",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "demo": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "library",
+    "es-modules",
+    "design-patterns",
+    "factory",
+    "strategy",
+    "observer",
+    "dependency-injection"
+  ],
+  "author": "RamahB0",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
